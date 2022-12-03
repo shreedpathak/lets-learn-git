@@ -6,7 +6,7 @@ int main(){
     a = 23;
     b = 34;
     int c = a+b;
-    cout<<c<<endl;
+    cout<<"YOur answer for sum is : "<<c<<endl;
 return 0;
 
 }
