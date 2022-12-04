@@ -10,3 +10,4 @@ int main(){
 return 0;
 
 }
+int d=0;
